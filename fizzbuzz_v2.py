@@ -1,4 +1,3 @@
-import time
 printing = 0
 num = 0
 while True:
@@ -17,4 +16,4 @@ while True:
             printing = 1
     elif printing == 0:
         print(num)
-    time.sleep(0.5)
+   
