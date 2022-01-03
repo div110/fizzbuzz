@@ -16,4 +16,3 @@ while True:
             printing = 1
     elif printing == 0:
         print(num)
-   
