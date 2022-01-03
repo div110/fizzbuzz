@@ -1,4 +1,4 @@
-printing = 0
+řprinting = 0
 num = 0
 while True:
     printing = 0
